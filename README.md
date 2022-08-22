@@ -9,7 +9,8 @@ Frontend Web Developer | System Administrator | CyberSecurity | Network Engineer
 *   ✉️  You can contact me at [godwiniyip@gmail.com](mailto:godwiniyip@gmail.com)
 *   🧠  I'm learning IT Support and JavaScript Frame works
 *   🤝  I'm open to collaborating on Frontend Projects
-*   ⚡  I am a Gamer, bet you can't challenge me to one-on-one and win, on Call of Duty<a href="https://www.twitter.com/IyipGodwin" target="_blank" rel="noreferrer"><img
+*   ⚡  I am a Gamer, bet you can't challenge me to one-on-one and win, on Call of Duty
+<a href="https://www.twitter.com/IyipGodwin" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/IyipGodwin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
